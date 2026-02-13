@@ -5,6 +5,7 @@ Strong experience in modern JavaScript automation ecosystems, CI/CD pipelines, a
 
 ---
 🔥 Core Automation Projects
+
 🌐 Web Test Automation | Cypress | Selenium | JavaScript
 
 Enterprise-style web automation framework using modern test architecture patterns, Page Object Model, and CI pipeline execution.
