@@ -15,6 +15,7 @@ QA Automation • Test Automation • Cypress • Selenium • JavaScript • E2
 
 🔗 https://github.com/niltonferraz/cypress-web-automation
 
+COMMING SOON
 ---
 🔌 API Test Automation | REST | BDD | JavaScript
 
@@ -25,6 +26,7 @@ API Testing • REST API • Automation Framework • BDD • Contract Testing �
 
 🔗 https://github.com/niltonferraz/api-test-automation
 
+COMMING SOON
 ---
 📱 Mobile Automation | Appium | Android | JavaScript
 
@@ -35,6 +37,7 @@ Mobile Automation • Appium • Android Testing • Mobile QA • Test Framewor
 
 🔗 https://github.com/niltonferraz/mobile-automation-appium-js
 
+COMMING SOON
 ---
 🧠 QA Automation Engineering Hub | Standards | Architecture | Best Practices
 
@@ -44,3 +47,5 @@ Keywords:
 QA Strategy • Test Architecture • Automation Standards • QA Engineering • Quality Culture • Test Process Optimization
 
 🔗 https://github.com/niltonferraz/qa-automation-engineering
+
+COMMING SOON
